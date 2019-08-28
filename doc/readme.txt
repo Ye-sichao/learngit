@@ -9,4 +9,10 @@ i want a conflict
 you are stupid
 >>>>>>> feature
 you are stupid
-git is a super hero
+<<<<<<< Updated upstream
+this is my workspace 2.0
+=======
+
+
+this is my workspace
+>>>>>>> Stashed changes
